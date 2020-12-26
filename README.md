@@ -1,6 +1,5 @@
-# Ultimate-Overdive
-LTspice model of my ideal overdrive pedal
-## Inspiration
+# Ultimate-Overdive 
+## Idea Dependency Graph
 [Trainwreck Express](en.wikipedia.org/wiki/Trainwreck_Circuits) (Amp) -> [Ethos TWE-1 Overdrive](customtonesinc.com/home.html) (Amp Sim Pedal) -> [Derailer Overdrive](pedalpcb.com/product/derailer/) (Pedal Clone) -> this project
-
-Many guitar overdrive pedals sound harsh and dynamically flat. To fulfill my desire for a low voltage, solid state plexi-like tone, I am making this project. The design of this pedal is focused on high quality opamps that drive clipping diodes in a minimally complex circuit.
+## Background
+Overdrive pedals tend to kill dynamics. The goal of this project is to create a solid state plexi-like pedal with minimal components. In other words, 9v power, a single opamp, and low pass tone control. The tone relies on high quality opamps driving a carefully placed diodes, resistors, and capacitors.
