@@ -4,7 +4,7 @@
 ## Contents
 **Ultimate-Overdrive.asc** - [LTSpice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html) schematic
 
-**APPENDIX** - Extra discussions and effect comparisons. Read this if you like to know more about this project's motivation.
+**APPENDIX.md** - Extra discussions and effect comparisons. Read this if you like to know more about this project's motivation.
 
 ## Digital Version
 [SOUL-VA](https://github.com/thezhe/SOUL-VA) implements a similar effect with clipping, bias shifting, and compression (*work in progress*).
