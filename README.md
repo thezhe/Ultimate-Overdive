@@ -1,5 +1,12 @@
 # Ultimate-Overdive 
-## Idea Dependency Graph
-[Trainwreck Express](en.wikipedia.org/wiki/Trainwreck_Circuits) (Amp) -> [Ethos TWE-1 Overdrive](customtonesinc.com/home.html) (Amp Sim Pedal) -> [Derailer Overdrive](pedalpcb.com/product/derailer/) (Pedal Clone) -> this project
-## Background
-Overdrive pedals tend to kill dynamics. The goal of this project is to create a solid state plexi-like pedal with minimal components. In other words, 9v power, a single opamp, and low pass tone control. The tone relies on high quality opamps driving a carefully placed diodes, resistors, and capacitors.
+***Ultimate-Overdrive*** is a solid-state guitar pedal with touch-sensitive [Plexi](https://www.guitarworld.com/features/marshall-plexi-guitar-amps-everything-you-need-to-know)-like tones. Two parameters (drive and volume) control the single gain stage; high-quality opamp drives carefully placed diodes, resistors, and capacitors to produce a dynamic overdrive.
+
+## Contents
+**Ultimate-Overdrive.asc** - [LTSpice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html) schematic
+
+**APPENDIX** - Extra discussions and effect comparisons. Read this if you like to know more about this project's motivation.
+
+## Digital Version
+[SOUL-VA](https://github.com/thezhe/SOUL-VA) implements a similar effect with clipping, bias shifting, and compression (*work in progress*).
+
+## Example: Clicking 'Run' in LTSpice
