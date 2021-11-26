@@ -10,3 +10,6 @@ Talk about
 -solid state tube emulation
 -classical soft/hard clipping
 -Klon, DS1, SD1, Distortion+, Tubescreamer
+
+
+The clipping stage employs techniques found in [Thunderbird](http://www.runoffgroove.com/thunderbird.html) and [Derailer Overdrive](https://www.pedalpcb.com/product/derailer/). Thunderbird is inspired by the Marshal Super Lead, while Derailer is a clone of [Ethos TWE-1 Overdrive](http://www.customtonesinc.com/preamps.html). The TWE-1 is inpired by the [Trainwreck Express](en.wikipedia.org/wiki/Trainwreck_Circuits).

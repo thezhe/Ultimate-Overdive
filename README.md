@@ -1,6 +1,8 @@
 # Ultimate-Overdive 
 ***Ultimate-Overdrive*** is a solid-state guitar pedal with touch-sensitive [Plexi](https://www.guitarworld.com/features/marshall-plexi-guitar-amps-everything-you-need-to-know)-like tones. Two parameters (drive and volume) control the single gain stage; high-quality opamp drives carefully placed diodes, resistors, and capacitors to produce a dynamic overdrive.
 
+**This project is not currently active, since it turns out that most of the clipping is actually from the opamps and not the diodes. Perhaps this repo will come back sometime in the future.**
+
 ## Contents
 **Ultimate-Overdrive.asc** - [LTSpice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html) schematic
 
